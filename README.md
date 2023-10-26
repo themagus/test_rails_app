@@ -9,11 +9,11 @@ Things you may want to cover:
 
 * System dependencies
 
-* Configuration
+* Configuration: Let's make another change here
 
 * Database creation
 
-* Database initialization
+* Database initialisation
 
 * How to run the test suite
 
